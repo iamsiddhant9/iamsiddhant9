@@ -12,16 +12,16 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I'm a Computer Engineering student (Mumbai University) who builds startup-oriented products, not just portfolio projects. I care about real-world impact, monetization, and thinking like a founder from day one — every build starts with the question "who actually pays for this?"
 
-- 🔭 Currently building **civic-tech and consumer-facing products** for the Indian market
-- 🛰️ Working on an **ISRO Bharatiya Antariksh Hackathon 2026** submission — Surface AQI & HCHO hotspot mapping using satellite data
-- 🌱 Learning **AI/ML** and deepening my **blockchain / EVM-Solidity** skills
-- ⚡ I move fast with agentic / vibe-coding workflows — Claude Code, Cursor
-- 🏆 Competitive hackathon participant, agentic & autonomous systems focus
-- 📍 Based in Nagpur, India
+-  Currently building **civic-tech and consumer-facing products** for the Indian market
+-  Working on an **ISRO Bharatiya Antariksh Hackathon 2026** submission — Surface AQI & HCHO hotspot mapping using satellite data
+-  Learning **AI/ML** and deepening my **blockchain / EVM-Solidity** skills
+-  I move fast with agentic / vibe-coding workflows — Claude Code, Cursor
+-  Competitive hackathon participant, agentic & autonomous systems focus
+-  Based in Navi Mumbai, India
 
 ---
 
